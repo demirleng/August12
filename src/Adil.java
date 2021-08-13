@@ -4,6 +4,7 @@ public class Adil {
         System.out.println("emrah");
         System.out.println("emrah");
         System.out.println("adil");
+        System.out.println("omer");
 
 
 
